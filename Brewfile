@@ -11,10 +11,8 @@ brew 'fpp' # facebook path picker, do a `git status | fpp` to see what it can do
 brew 'mtr' # network diagnostic tool, useful when somebody asks "did the internet just stop?"
 brew 'nmap' # network security scanner
 brew 'shellcheck' # shell script analyzer
-brew 'python'
 brew 'wget'
 brew 'htop'
-brew 'nano'
 brew 'make'
 brew 'node'
 
@@ -25,13 +23,11 @@ cask 'slack'
 cask 'spectacle' # Easy window management
 cask 'the-unarchiver' # unarchives most formats
 cask 'little-snitch' # network monitoring
-cask 'skype'
 cask 'vagrant' # Great to manage development environments (requires VM software)
 cask 'virtualbox'
-cask 'intellij-idea-ce' # The Ultimate (paid) version is just `intellij-idea`
+cask 'intellij-idea' # The Ultimate (paid) version is just `intellij-idea`
 cask 'visual-studio-code' # open source text editor by Microsoft, on top of GitHub Atom
 cask 'flux' # amazing tool that adjusts the color temperature of your monitor to ease it on your eyes
 cask 'caffeine' # keeps your Mac awake when you want to
 cask 'sourcetree' # Great GUI for Git, Subversion and Mercurial
-cask 'spotify'
 cask 'dropbox'
