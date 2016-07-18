@@ -15,6 +15,7 @@ brew 'wget'
 brew 'htop'
 brew 'make'
 brew 'node'
+brew 'maven'
 
 cask 'google-chrome'
 cask 'java' # includes JDK
@@ -31,3 +32,4 @@ cask 'flux' # amazing tool that adjusts the color temperature of your monitor to
 cask 'caffeine' # keeps your Mac awake when you want to
 cask 'sourcetree' # Great GUI for Git, Subversion and Mercurial
 cask 'dropbox'
+cask 'sublime-text'
