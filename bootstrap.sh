@@ -61,9 +61,9 @@ if [ ! -d ~/.oh-my-zsh ] && confirm "Replace bash with (oh-my) zsh?"; then
 fi
 
 if [ -z "$HOMEBREW_CASK_OPTS" ]; then
-    if confirm "Install brew cask apps under /Applications (it's more predictable than default behavior)?"; then
+    if confirm "Install brew cask apps under ~/Applications (it's more predictable than default behavior)?"; then
         # Make Brew Cask install programs in a more predictable location
-        cask_opts="HOMEBREW_CASK_OPTS=--appdir=/Applications"
+        cask_opts="HOMEBREW_CASK_OPTS=--appdir=~/Applications"
         export $cask_opts
         shell_dot_file="$HOME/.zshrc"
         if [ ! -f "$shell_dot_file" ]; then
