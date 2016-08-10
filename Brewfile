@@ -14,6 +14,7 @@ brew 'wget'
 brew 'htop'
 brew 'make'
 brew 'node'
+brew 'java'
 brew 'maven'
 
 cask 'google-chrome'
