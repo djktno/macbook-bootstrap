@@ -16,6 +16,8 @@ brew 'make'
 brew 'node'
 brew 'java'
 brew 'maven'
+brew 'lastpass'
+brew 'slack'
 
 cask 'google-chrome'
 cask 'java' # includes JDK
@@ -26,7 +28,7 @@ cask 'the-unarchiver' # unarchives most formats
 cask 'little-snitch' # network monitoring
 cask 'vagrant' # Great to manage development environments (requires VM software)
 cask 'virtualbox'
-cask 'intellij-idea-ce' # The Ultimate (paid) version is just `intellij-idea`
+cask 'intellij-idea' # The Ultimate (paid) version is just `intellij-idea`, CE is just 'intellij-idea-ce'
 cask 'flux' # amazing tool that adjusts the color temperature of your monitor to ease it on your eyes
 cask 'sourcetree' # Great GUI for Git, Subversion and Mercurial
 cask 'sublime-text'
