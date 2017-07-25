@@ -16,8 +16,6 @@ brew 'make'
 brew 'node'
 brew 'java'
 brew 'maven'
-brew 'lastpass'
-brew 'slack'
 
 cask 'google-chrome'
 cask 'java' # includes JDK
@@ -32,3 +30,9 @@ cask 'intellij-idea' # The Ultimate (paid) version is just `intellij-idea`, CE i
 cask 'flux' # amazing tool that adjusts the color temperature of your monitor to ease it on your eyes
 cask 'sourcetree' # Great GUI for Git, Subversion and Mercurial
 cask 'sublime-text'
+cask 'docker'
+cask 'spark'
+cask 'evernote'
+cask 'keybase'
+cask 'lastpass'
+cask 'slack'
