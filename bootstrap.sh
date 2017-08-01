@@ -55,7 +55,7 @@ fi
 
 if [ ! -d ~/.oh-my-zsh ] && confirm "Replace bash with (oh-my) zsh?"; then
     brew install zsh
-    chshd 
+    chsh 
     # Install oh-my-zsh
     curl -L http://install.ohmyz.sh | sh
 fi

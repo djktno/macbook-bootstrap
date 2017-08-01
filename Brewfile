@@ -14,8 +14,6 @@ brew 'wget'
 brew 'htop'
 brew 'make'
 brew 'node'
-brew 'java'
-brew 'maven'
 
 cask 'google-chrome'
 cask 'java' # includes JDK
@@ -36,3 +34,7 @@ cask 'evernote'
 cask 'keybase'
 cask 'lastpass'
 cask 'slack'
+cask 'zoomus'
+cask 'zoomus-outlook-plugin'
+
+brew 'maven'
