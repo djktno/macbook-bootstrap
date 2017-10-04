@@ -27,7 +27,6 @@ cask 'virtualbox'
 cask 'intellij-idea' # The Ultimate (paid) version is just `intellij-idea`, CE is just 'intellij-idea-ce'
 cask 'flux' # amazing tool that adjusts the color temperature of your monitor to ease it on your eyes
 cask 'sourcetree' # Great GUI for Git, Subversion and Mercurial
-cask 'sublime-text'
 cask 'docker'
 cask 'spark'
 cask 'evernote'
@@ -36,5 +35,7 @@ cask 'lastpass'
 cask 'slack'
 cask 'zoomus'
 cask 'zoomus-outlook-plugin'
+cask 'visual-studio-code'
+cask 'atom'
 
 brew 'maven'
