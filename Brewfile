@@ -37,5 +37,6 @@ cask 'zoomus'
 cask 'zoomus-outlook-plugin'
 cask 'visual-studio-code'
 cask 'atom'
+cask 'nvalt'
 
 brew 'maven'
