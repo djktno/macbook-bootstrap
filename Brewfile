@@ -1,5 +1,7 @@
 tap 'homebrew/dupes'
 tap 'caskroom/versions'
+tap 'cloudfoundry/tap'
+tap 'pivotal/tap'
 
 brew 'tmux'
 brew 'bash-completion' # autocomplete in bash (tabbing) for many tools
@@ -14,6 +16,8 @@ brew 'wget'
 brew 'htop'
 brew 'make'
 brew 'node'
+brew 'npm'
+brew 'httpie'
 
 cask 'google-chrome'
 cask 'java' # includes JDK
@@ -38,6 +42,8 @@ cask 'zoomus-outlook-plugin'
 cask 'visual-studio-code'
 cask 'atom'
 cask 'nvalt'
-cask 'appzapper'
+cask 'wireshark'
 
 brew 'maven'
+brew 'cf-cli'
+brew 'springboot'
