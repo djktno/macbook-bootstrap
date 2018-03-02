@@ -1,4 +1,3 @@
-tap 'homebrew/dupes'
 tap 'caskroom/versions'
 tap 'cloudfoundry/tap'
 tap 'pivotal/tap'
