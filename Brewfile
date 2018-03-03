@@ -19,7 +19,7 @@ brew 'npm'
 brew 'httpie'
 
 cask 'google-chrome'
-cask 'java' # includes JDK
+cask 'java8' # includes JDK
 cask 'iterm2' # great terminal replacement
 cask 'slack'
 cask 'spectacle' # Easy window management
