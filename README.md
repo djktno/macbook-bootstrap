@@ -1,4 +1,4 @@
-# Setup OS X for Development
+# Setup OS X Environment
 
 This is my personal process to setup a new OS X for productive development environment. The guide below outlines the 
 steps needed to install `Command Line Tools`, [brew](http://brew.sh/), update integrated shell tools, install `zsh` and 
