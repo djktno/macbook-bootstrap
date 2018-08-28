@@ -17,6 +17,7 @@ brew 'make'
 brew 'node'
 brew 'npm'
 brew 'httpie'
+brew 'privoxy'
 
 cask 'google-chrome'
 cask 'java8' # includes JDK
