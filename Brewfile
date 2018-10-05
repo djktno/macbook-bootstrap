@@ -42,6 +42,7 @@ cask 'visual-studio-code'
 cask 'atom'
 cask 'nvalt'
 cask 'wireshark'
+cask 'the-unarchiver'
 
 brew 'maven'
 brew 'cf-cli'
