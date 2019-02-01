@@ -47,3 +47,25 @@ cask 'the-unarchiver'
 brew 'maven'
 brew 'cf-cli'
 brew 'springboot'
+
+# Install Atom packages
+apm install docblockr
+apm install emmet
+apm install file-icons
+apm install filesize
+apm install language-babel
+apm install language-docker
+apm install language-dotfiles
+apm install language-graphql
+apm install language-reason
+apm install language-viml
+apm install linter
+apm install linter-alex
+apm install linter-eslint
+apm install linter-flow
+apm install linter-eslint
+apm install linter-write-good
+apm install pdf-view
+apm install pigments
+apm install prettier-atom
+apm install svg-preview
